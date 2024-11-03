@@ -1,0 +1,2 @@
+1,Juan Perez,Calle Falsa 123,123456789,juan@example.com,12345678-9,Ingeniero,Empleado público
+1,Juan Perez,Calle Falsa 123,123456789,juan@example.com,12345678-9,Ingeniero,Empleado público

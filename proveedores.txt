@@ -1,0 +1,2 @@
+3,Proveedor S.A.,Avenida Central 789,456123789,proveedor@example.com,98765432-1,Banco XYZ,123456,corriente
+3,Proveedor S.A.,Avenida Central 789,456123789,proveedor@example.com,98765432-1,Banco XYZ,123456,corriente
